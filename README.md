@@ -1,7 +1,8 @@
 # SAI CHARAN GADIRAJU
-- Email: gsaicharan02@gmail.com
-- Phone: +1 667 677 1045
-- LinkedIn: [https://www.linkedin.com/in/sai-charan-gadiraju/](https://www.linkedin.com/in/sai-charan-gadiraju/)
+<img src="Img.jpeg" alt="Sai Charan Gadiraju" width="500"/>
+- Email: gsaicharan02@gmail.com<br>
+- Phone: +1 667 677 1045<br>
+- LinkedIn: https://www.linkedin.com/in/sai-charan-gadiraju/
 
 ## ABOUT ME:
 - I have 4+ years of experience in the Salesforce platform, designing and implementing custom Salesforce solutions for clients, including Sales Cloud, Service Cloud, and Community Cloud.
@@ -58,6 +59,10 @@
 - **Bachelor of Engineering in Mechanical Engineering** - Sreenidhi Institute of Science and Technology (JNTU-Hyderabad)
   - August 2014 - May 2018
 
-## ACCOMPLISHMENTS:
+## ACCOMPLISHMENTS AND PROJECTS:
 - Patent No - 201841034913 (Published) 2017-2018 - Dynamic speed limiter mechanism for four-wheelers.
   - Automated tracking of road speed limits using GPS and microcontroller connected to servo motor.
+- Project on Sentiment Analysis
+  - Our goal was to develop a Sentiment Analysis system for a movie review database that lacks structure and labels.
+  - https://github.com/Saicharan0297/data602/tree/main/Final_Project
+- Data Analysis on H1 Visa
