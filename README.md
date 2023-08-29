@@ -53,8 +53,8 @@
 - Built positive relationships with colleagues and stakeholders.
 
 ## EDUCATION:
-- **Master of Science in Data Analytics** - University of Maryland, Baltimore County
-  - September 2022 - December 2023
+- **Master of Science in Data Modeling/Warehousing and Database Administration** - University of Maryland, Baltimore County
+  - September 2022 - May 2024
 - **Bachelor of Engineering in Mechanical Engineering** - Sreenidhi Institute of Science and Technology (JNTU-Hyderabad)
   - August 2014 - May 2018
 
